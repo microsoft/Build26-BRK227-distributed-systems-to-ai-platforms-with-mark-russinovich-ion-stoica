@@ -1,36 +1,3 @@
-# 🚀 Get Started
-
-**This repo is where attendees go to continue their learning after your session — and your Copilot agent will help you set it up.**
-
-### Step 1: Open your repo
-
-Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**) — or clone it locally. Then open **GitHub Copilot Chat**.
-
-### Step 2: Add your content
-
-Give the agent something to work with. Drag files into the Explorer panel — session abstracts, outlines, screenshots, notes — and drop them in one of two places:
-
-| Where to put it | What goes there | Who sees it |
-|---|---|---|
-| **`_remove-before-publish/`** | Internal reference materials (abstracts, outlines, screenshots, planning docs) | **Copilot only** — never published |
-| **`/docs/`, `/src/`, or repo root** | Lab instructions, demo code, sample data, getting-started guides | **Attendees** — published with the repo |
-
-> 💡 Not sure? Start by dropping your session abstract or outline into `_remove-before-publish/`. The agent will figure out what to do with it.
-
-### Step 3: Ask the Agent
-
-Once your content is in the repo, use these three phrases with Copilot to build out your session repo:
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
----
-
 <a name="start-building"></a>
 <br>
 <p align="center">
@@ -39,49 +6,11 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 Distributed systems to AI platforms with Mark Russinovich & Ion Stoica
 
 ### Session Description
 
-*Add Session Description*
-
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
-
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
-
-### 🧠 Learning Outcomes
-
-By the end of this session, you will be able to:
-
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
-
-### 💬 Keep Learning with Copilot
-
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
-
-Use these as a starting point — or write your own!
-
-<!-- Prompts will be tailored to this session's content during repo setup. -->
-
-> *Prompts coming soon — check back after the session content is finalized.*
-
-### 💻 Technologies Used
-
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+What will it take to build AI platforms for the agent era? Join Azure CTO Mark Russinovich and UC Berkeley professor Ion Stoica (co-creator of Apache Spark and co-founder of Databricks and Anyscale) to explore how AI infrastructure must evolve as systems become agentic, multimodal, and globally distributed. Get practical insights on next generation architectures, from training to real time serving, and why open source, security, and governance are now core platform concerns.
 
 ### 📚 Resources and Next Steps
 
@@ -115,10 +44,10 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/darbykosten">
+        <img src="https://avatars.githubusercontent.com/u/289059289?v=4" width="100px;" alt="darbykosten"/><br />
+        <sub><b>darbykosten</b></sub></a><br />
+            <a href="https://github.com/darbykosten" title="talk">📢</a>
     </td>
 </tr></table>
 
